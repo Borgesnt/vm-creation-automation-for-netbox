@@ -106,6 +106,7 @@ O script não cria Prefixos, Sites ou Tenants — eles devem existir previamente
 Caso não haja IP disponível no prefixo escolhido, será exibido um erro.
 
 Campos adicionais como Sistema Operacional podem ser incluídos via Custom Fields no NetBox.
+````
 
 📜 Licença
 Este projeto está sob a licença MIT — use e modifique livremente.
